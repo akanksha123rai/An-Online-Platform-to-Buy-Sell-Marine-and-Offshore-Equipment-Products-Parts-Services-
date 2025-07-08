@@ -1,0 +1,525 @@
+/* ---------------------------------- Responsive Media Styles ---------------------------------*/
+
+
+
+@media (min-width: 1200px) {
+    
+	.container { max-width: 1347px; }
+}
+
+
+
+
+ 
+
+@media only screen and (min-width: 769px) {
+	 
+	//  .tophead .tophead-right .dropdown-menu { display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0; top:180%;  }
+	// .tophead .tophead-right  .dropdown-toggle:hover .dropdown-menu { transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }
+	 
+	//  .navbar .nav-item .dropdown-menu {  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0; top: 180%  }  
+	// .navbar .nav-item:hover .dropdown-menu { transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }  
+
+}
+
+
+
+
+
+/* Medium : 647px */
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width: 576px) and (max-width:1024px) {
+	
+	.deals-left .experiance-check  { margin-bottom: 5.5px; }
+	.head-bottoimg { height: 70px; }
+
+	header .wish-icon { font-size: 20px; margin-top: 4px; }
+	.verification-box input { width: 30px; padding: 7px 4px; }
+	.forget-right h3 { padding-top: 153px; }
+	header a i { font-size: 21px; margin-top: 5px; }
+	.register-bg { height: auto; }
+	.new-questions { height: 100vh; }
+
+	.heading-seperator4:after { left: 59%; }
+	.socialnew-images { top: 0; }
+	.head-textblack { padding-top: 0px; }
+	.buy-tabs .nav-link { padding: 0.6rem 1rem;}
+	.buy-formtext h1 { font-size: 26px; }
+	.sub-input { font-size: 13px; }
+	.deals-left h1 { font-size: 11px; }
+	.deals-left p { font-size: 12px; }
+	.deal-input { font-size: 12px; }
+	.deals-select { font-size: 15px; }
+	.new-labelexp span { font-size: 10px; }
+	.new-labelexp { font-size: 11px; }
+	// .header-logoimg { height: 30px; }
+	.pagination .page-item { margin-right: 5px; }
+	.pagination .page-item .page-link { font-size: 11px; padding: 0.4rem 0.5rem; }
+	.carousel-qr { width: 50px; height: 50px; }
+	.login-btn { font-size: 10px; padding: 3px 10px; }
+	.new-qrbox { height: 85px; width: 85px; }
+	.range-producttop {  min-height: 300px !important; }
+	.range-productimg { height: 300px; }
+	.range-productimgleft { height: 110px; width: 91%; }
+	.range-productright h6 { font-size: 16px; }
+	.range-productright p { font-size: 11px; }
+	.range-productright h2 { font-size: 20px; padding-top: 10px; }
+	.range-productright h5 { font-size: 14px; padding-top: 15px; }
+
+	.quantity-box { width: 40px; height: 40px; line-height: 40px; font-size: 14px; margin-top: 15px; }
+	.range-productright h3 { font-size: 15px; padding-top: 5px; }
+	.rent-btn { font-size: 10px; }
+	.new-btn { font-size: 10px; padding: 6px 6px; }
+	.heading-seperator4 { margin: 7px 0 7px !important; }
+	.planprice-box { min-height: 663px; }
+	.try-imgbox { height: 234px; }
+	.blogs-newimgbox { height: 129px; }
+	.qr-imgbox { height: 75px; }
+	.planprice-box h1 { font-size: 18px; }
+	.planprice-boxcontent { padding: 0px 10px;}
+	.planprice-box p { font-size: 12px; }
+	.planprice-boxcontent .first-boxplan { padding-top: 16px; }
+	.heading-seperator5 span:after { left: 29% !important; width: 45px; }
+	.heading-seperator5:after {
+		left: 58% !important;
+	}
+	.heading-seperator4 span:after { left: 30%; width: 45px; }
+	.planprice-boxcontent h6 { font-size: 14px; }
+	.planprice-boxcontent .first-boxplan li { font-size: 12px; padding-bottom: 5px; padding-left: 23px; }
+	.planprice-box h1 img { height: 20px; }
+	.plan-outlinebtn { font-size: 13px; padding: 5px 20px; }
+	.basic-btn { font-size: 13px;     padding: 5px 20px; }
+	.planprice-boxcontent .second-boxplan li { font-size: 12px; padding-bottom: 5px; padding-left: 23px; }
+
+	.blogs-imgbox { height: 142px; }
+	.blogs-box h2 { font-size: 13px; padding-top: 10px; }
+	.padding-box { padding: 10px; }
+	.blogs-box h5 { font-size: 13px; padding: 10px 0px; }
+	.date-boxbordertop { margin-top: 5px; }
+	.box-btn { font-size: 12px; }
+	.blogs-box h6 { padding: 9px 0px; font-size: 14px; }
+
+	.why-sparessboximg { height: 50px; }
+	canvas { height: 408px !important; }
+	.top-banner h2 {font-size: 18px;}
+	.slick-prev:before { left: 27px !important; }
+	.pagination {padding-left: 32px !important; margin-bottom: 0px;}
+	.tophead ul li {font-size: 12px; padding-right: 19px;}
+	.heart-headimg{height: 20px;}
+	.top-banner h2 {margin-top: 0px;}
+	.search-section {margin-top: 15px; padding: 15px;}
+	.serach-input {padding: 15px 20px;}
+	.top-banner {margin-top: 1rem;}
+	.component-text{margin-top: 1rem;}
+	.component-text p{font-size: 12px; text-overflow: ellipsis; overflow: hidden;  
+	  white-space: nowrap; }
+	  .carousel-foot {margin-top: 25px; padding: 12px;}
+	  .carousel-foot {font-size: 14px;}
+	  .carousel-foot p {font-size: 13px;}
+	  .carousel-foot h1 {font-size: 15px;}
+	  .play-btn {padding: 0px 0px;}
+	  .trial-btn {margin-top: 1rem;}
+	  .deal-content p {font-size: 11px; line-height: 15px; }
+	  .deals-img { width: 35px; height: 35px; padding: 5px; }
+	  .deal-content h1 { font-size: 12px; }
+	  .boxborder { width: 116px; min-height: 65px; padding: 15px 15px; margin-right: 12px; margin-top: 25px; } 
+	  .boxborder p {font-size: 12px;}
+	  
+	  .why-sparessboxbottomimg { height: 250px; }
+	  .why-sparessbox h1 {font-size: 18px; padding-top: 20px;}
+	  .about-sechead h1 {font-size: 25px;}
+	  .userreviwe-box {padding: 0px 10px; width: 140px;}
+	  .userreviwe-box h1 {font-size: 15px; padding-top: 15px;}
+	  .userreviwe p { padding-top: 10px;}
+	  .userreviwe-box h6 {padding-top: 19px;}
+	  .userreview-img {width: 90px; height: 90px;top: 41px; left: 88px;}
+	  .userreviwe h5 {font-size: 12px; padding-right: 1rem; padding-left: 35px;}
+	  .btntop-padding {padding-top: 60px;}
+	  .scan-section { padding: 15px 15px; margin: 0px; }
+	  .scan-sectext h1 {font-size: 18px;}
+	  .scan-sectext p {font-size: 13px; padding-top: 12px;}
+	  .hand-imgleft {height: 90px; position: absolute; margin-top: -15px;}
+	  .qr-imgapp {height: 90px;}
+	  .foot-righttext h1 {font-size: 18px;}
+	  .foot-righttext ul li {font-size: 10px;}
+	  .copy-righttext {font-size: 12px;}
+	  .foot-contnet p {font-size: 13px;}
+	  .foot-logo{height: 50px;}
+	  .nav-link {padding: 0.1rem 1rem;}
+	  #uncontrolled-tab-example-tab-null {font-size: 18px;}
+	  .nav-tabs .nav-link {font-size: 16px;}
+	  .head-text h1 {font-size: 30px;}
+	  .plan-img {height: 210px;}
+
+	  .carousel-indicators { bottom: 90px !important; }
+	
+    .showme {  width: 768px; left: -204px; top: 25px; padding: 10px 20px;}
+    .maintitle h5{ font-size: 14px;}
+    .hover-boxcontent ul li{   font-size: 12px !important; margin-bottom: 4px !important;}
+
+	// register
+	.login-logonew { height: 50px; }
+	.register-lefttextbox h1 { font-size: 27px; padding-top: 60px; }
+	.register-lefttextbox h2 { font-size: 49px; padding-top: 10px; }
+	.register-lefttextbox p { font-size: 13px; padding-top: 15px; line-height: 22px; }
+	.register-righttextbox h3 { font-size: 23px; }
+	.input-box { font-size: 14px; padding: 22px 17px; }
+	.next-btn { padding: 12px 10px; font-size: 13px; }
+
+	.register-label { font-size: 15px !important; }
+	.register-righttextbox h6 { font-size: 13px; }
+	.social-iconregister { padding-top: 15px; }
+	.social-iconregister img { height: 35px; margin-right: 6px; }
+
+	.newlogin-btn { padding: 7px 8px; font-size: 11px; }
+	.register-righttextbox h5 { font-size: 12px; }
+
+	.verification-boxinpt { width: 24px; padding: 9px 2px; }
+	.newtwostepbutton { width: 232px; }
+
+	.product-layer { padding: 50px 10px; }
+	.product-layer p { font-size: 13px; line-height: 18px; margin-top: 15px; }
+	.product-img { height: 175px; }
+	.recently-img { width: 60px; height: 60px; padding: 10px; }
+
+	// services
+	.services-sectop { min-height: 300px; }
+	.services-tophead h1 { font-size: 35px; }
+	.service-textbox h1 { line-height: 23px; font-size: 17px; }
+	.platorm-box { padding: 18px; }
+	.platorm-box h1 { font-size: 13px; line-height: 27px; }
+	.platform-sec { min-height: 290px; }
+	.our-mission h1 { font-size: 18px; }
+	.our-mission p { font-size: 12px; padding-top: 7px; line-height: 20px; }
+	.black-scan { height: 85px; }
+
+	// .services-tophead { padding-top: 175px; }
+	.service-boxnew { height: 220px; }
+	.service-btn { padding: 5px 10px !important; }
+	.footbtn { padding: 2px 5px; }
+	.footbtn h5 { font-size: 10px;}
+	.footbtn h5 span { font-size: 10px; }
+
+	.subscription-planleft { padding: 25px 15px; }
+	.standard-plancontent { padding: 15px 13px; }
+	.choose-btn { padding: 7px 45px; font-size: 13px; }
+	.choose-advanced { font-size: 13px;  padding: 7px 45px; }
+	.standard-plan h2 { font-size: 18px; padding: 10px 10px; }
+
+// blogs================================
+.Industriesblog-leftimg { height: 212px; }
+.industries-text h1 { font-size: 19px; }
+.industries-text p { font-size: 13px; line-height: 18px; padding-top: 5px; }
+.industries-text h6 { font-size: 13px; padding-top: 6px; }
+.Industriesblog-rightimg { height: 110px; }
+.industries-text h3 { font-size: 12px; }
+.industries-text h2 { font-size: 13px; line-height: 16px; padding-top: 2px; }
+.industries-text h4 { font-size: 12px; padding-top: 3px; }
+.red-border { padding: 15px; }
+.industries-text h5 { font-size: 16px; }
+
+//My-wishlist=======================
+.wishlist-imgbox { height: 105px; }
+.my-wishlistboxcontent { padding: 10px 8px; }
+.my-wishlistboxcontent p { font-size: 12px; line-height: 16px; }
+.my-wishlistboxcontent h6 { font-size: 12px; } 
+.my-wishlistboxcontent h4 { padding-top: 8px; }
+.review-btn { font-size: 13px; padding: 4px 10px; }
+.my-wishlistboxcontent h5 img { margin-right: 4px; }
+.out-stock p { padding: 5px 10px; font-size: 12px; }
+.out-stock { top: 39px; left: 18px; width: 109px; }
+
+
+.rating-label { font-size: 10px !important; margin-bottom: 0px !important; }
+.padding-boxdeal { padding: 0px 5px; }
+.sub-inputimg { right: 5px; }
+
+.price-ratingbox p { padding-top: 0px; line-height: 15px; font-size: 12px; }
+.price-ratingbox h6 { font-size: 14px; }
+.price-ratingbox h1 { font-size: 14px; }
+.price-ratingbox h5 { margin-top: 0px; }
+.price-btn { margin-top: 5px; margin-right: 5px;  padding: 5px 10px !important;}
+.price-btn img { height: 11px; }
+.price-ratingboximg { height: 70px; }
+.boxover-flow { height: 640px; }
+.boxover-flow::-webkit-scrollbar { width: 2px; display: block;  }
+.boxover-flow::-webkit-scrollbar-track { box-shadow: none; background: #ECECEC; border-radius: 10px; }
+.boxover-flow::-webkit-scrollbar-thumb { background-color: #E9C6B7; outline: none; border-radius: 10px; }
+
+.tittle-price p { font-size: 12px; }
+
+.upload-btnpadding { padding: 0px 6px; }
+.experiance-box { height: 165px; }
+.experiance-layer { width: 71px; }
+.experiance-slide .slick-prev:before { left: 6px !important; }
+.experiance-img { width: 72px; height: 65px; }
+
+// .new-experiance-slide .slick-next:before { right: 25px !important; }
+.new-experiance-slide .slick-next {
+    right: -9px !important;
+}
+
+.experiance-left { padding: 10px; }
+.experiance-left h1 { font-size: 13px; }
+.experiance-left h6 { padding-top: 5px; }
+.experiance-left p { font-size: 12px;  }
+.experiance-left h5 img { height: 13px; }
+.experiance-left h4 { font-size: 12px; }
+
+// buy==========
+.secound-buybox  { height: 60px; }
+
+// ==============
+.contact-us h1 { font-size: 32px; }
+.contact-input {  font-size: 15px; }
+.location-contact p { font-size: 11px; } 
+.location-contact img { height: 13px; margin-right: 2px; }
+
+}
+
+/* Small : 320px */
+
+@media screen and (max-width: 575px) {
+
+	.heading-seperator5 span:after { left: 36% !important; }
+	.service-textbox h1 { font-size: 17px; }
+	.head-bottoimg { height: 61px; }
+
+	.verification-box input { width: 40px; }
+	.login-btn { font-size: 10px; padding: 3px 7px; }
+	.tophead { padding-top: 10px !important; }
+	header a  i { color: #ffffff; font-size: 19px; margin-top: 3px; }
+	.register-bg { height: auto; }
+
+	.blogs-tab .nav-tabs .nav-link {
+		margin-bottom: 5px !important;
+	}
+
+	.tell-slidenew .slick-next:before { right: 12px; } 
+
+	.industries-text h3 { font-size: 16px; }
+	.industries-text h5 { font-size: 18px; }
+
+	.head-textblack { padding-top: 10px; }
+	.socialnew-images { position: relative; right: auto; }
+	.rating-label { font-size: 15px; }
+	.price-ratingbox h6 { font-size: 17px; }
+	.deals-select { font-size: 15px; }
+	.deal-input { font-size: 12px;  } 
+.register-label { font-size: 14px !important; }
+.range-productimgleft { height: 145px; }
+.range-productimg { height: 260px; }
+.why-sparessboxbottomimg { min-width: 178px; height: 178px; }
+.new-btn { padding: 7px 12px !important; }
+.range-productright h6 { font-size: 15px; }
+.range-productright h5 { font-size: 15px; padding-top: 17px; }
+.rent-btn { font-size: 12px; padding: 7px 12px; }
+.description-content {  padding: 25px 25px; }
+
+.blogs-newimgbox { height: 180px; }
+.range-productright h2 {  font-size: 23px; }
+.moblogo img { width: 100%;}
+.range-productright h3 { font-size: 18px; }
+.noflexwrap {flex-wrap: inherit; overflow-x: scroll;}
+.contact-input { font-size: 14px; padding: 20px 15px; }
+.qr-imgbox { height: 90px; }
+.try-imgbox { height: 207px; }
+.why-sparessboximg { width: 56px; height: 45px; }
+.heading-seperator5:after { left: 56%; }
+.heading-seperator2:after { width: 86px; }
+.heading-seperator2 span:after { left: 93px; }
+.heading-seperator4 span:after { width: 53px; left: 37%; }
+.planprice-box h1 img { height: 30px;}
+.plan-outlinebtn { font-size: 14px; }
+.basic-btn { font-size: 14px; }
+.planprice-boxcontent .first-boxplan { padding-top: 20px; }
+
+.planprice-boxcontent .first-boxplan li { padding-bottom: 5px; font-size: 12px; }
+
+.planprice-boxcontent { padding: 0px 15px; }
+.planprice-boxcontent .second-boxplan li { font-size: 12px;  padding-bottom: 5px; }
+.planprice-boxcontent h6 { font-size: 15px; }
+
+.planprice-box h1 { font-size: 20px; }
+.planprice-box p { font-size: 12px; }
+.blogs-box h6 { font-size: 13px; padding: 8px 0px;  }
+.blogs-box h5 { font-size: 13px; padding: 10px 0px; }
+.date-boxbordertop { margin-top: 5px; }
+.blogs-box h2 { font-size: 13px; padding-top: 10px; }
+.blogs-imgbox { height: 198px; }
+.foot-contnet { padding-top: 18px;}
+.contact-us h1 { font-size: 32px; }
+.contact-leftimg { height: 270px; } 
+.standard-plancontent p { font-size: 12px; }
+.top-banner {margin-top: 1rem;}
+.component-text { margin-top: 1rem; }
+// .top-banner {margin-top: 1rem;}
+.trial-btn {margin-top: 1rem;}
+.scan-section{padding: 20px 15px; margin: 0;}
+.logo-mobile{height: 33px;}
+.carousel-caption {top: 35px; padding-top: 10px;}
+.free-btn {font-size: 12px; padding: 4px 15px;}
+.qr-imgapp{height: 70px;}
+// .tophead .tophead-right li:last-child {padding-right: 10px;}
+.head-text h1 {font-size: 25px;}
+.foot-righttext h1{font-size: 18px;}
+.foot-righttext ul li{font-size: 12px;}
+.copy-righttext{font-size: 12px;}
+.foot-contnet p {font-size: 13px;}
+.about-sechead h1{font-size: 25px;}
+.slick-prev:before { bottom: -142px; left: 50px !important; }
+.slick-next:before{ bottom: -142px; right: 10px;}
+.btntop-padding {padding-top: 60px;}
+.review-btn {font-size: 15px; padding: 4px 20px;}
+.userreviwe p {font-size: 13px; padding-top: 10px;}
+// 
+.nav-link {padding: 0.1rem 10px 0.1rem 7px;}
+#uncontrolled-tab-example-tab-null {font-size: 14px; padding-left: 0px;}
+.nav-tabs .nav-link {font-size: 13px; padding: 4px 6px;}
+
+// .nav-tabs .nav-link:last-child{padding-right: 0px !important;}
+
+// 
+.scan-sectext h1 {font-size: 20px;}
+.scan-sectext p {font-size: 14px; padding-top: 12px;}
+.play-btn {padding: 0px 5px;}
+
+// 
+.top-banner h2 {font-size: 17px; margin-top: 0px;}
+.carousel-item .top-bgimg{height: 100vh; object-fit: cover;}
+.search-section {margin-top: 25px; padding: 15px;}
+.serach-input {font-size: 12px; padding: 15px 10px;}
+.search-btn {font-size: 12px; padding: 4px 15px;}
+.component-text p{font-size: 12px;}
+.carousel-indicators { bottom: 126px !important; }
+.carousel-foot {padding: 10px; margin-top: 25px;}
+.carousel-foot h1 {font-size: 13px;}
+.carousel-foot p {font-size: 13px; margin-bottom: 10px;}
+
+//  
+.plan-img {height: 185px;}
+
+.deal-content p { font-size: 12px; }
+.deal-content h1 { font-size: 14px; }
+
+.deals-img {width: 60px; height: 60px;}
+
+.add-box p { font-size: 15px; margin-top: 13px; line-height: 20px;}
+.product-layer p { font-size: 13px; line-height: 18px;}
+.product-img { height: 175px; }
+.recently-img { width: 65px; height: 65px; padding: 15px; }
+.product-layer { padding: 40px 10px; }
+
+//
+.main-box .boxborder:nth-child(5n) {  margin-right: 30px; }
+.main-box .boxborder:nth-child(2n) {  margin-right: 0px; }
+.boxborder{ padding: 20px 13px; width: 131px; margin-right: 30px; min-height: 75px; margin-top: 20px; }
+.boxborder p {font-size: 12px;}
+// .why-sparessbox {min-height: 178px;  min-width: 178px;}
+.why-sparessbox h1 {font-size: 15px; padding-top: 18px;}
+// .why-sparessbox img{height: 45px;}
+.pagination{padding-left: 25px !important; margin-bottom: 0px;}
+.foot-logo{height: 50px;}
+
+// register
+.login-logonew { height: 50px; }
+.next-btn {  padding: 12px 10px; font-size: 13px; }
+.register-lefttextbox h1 { font-size: 20px; padding-top: 20px; }
+.register-lefttextbox h2 { font-size: 45px; padding-top: 10px; }
+.register-lefttextbox p { font-size: 15px; margin-bottom: 20px;  line-height: 25px; }
+.register-righttextbox h3 { font-size: 25px; padding-top: 15px; }
+.input-box { font-size: 14px; padding: 21px 15px; margin-top: 20px; }
+.register-righttextbox h5 { font-size: 12px; }
+.newlogin-btn {  padding: 5px 10px; font-size: 11px; }
+.register-righttextbox h6 { font-size: 13px; }
+.social-iconregister { padding-top: 17px; }
+.social-iconregister img { height: 35px; margin-right: 5px; }
+
+.sec-inputbox { margin-top: 20px !important; }
+
+.login-sec { height: auto; }
+.verification-boxinpt { padding: 5px 2px;}
+// services
+.services-sectop { min-height: 150px; }
+// .services-tophead { padding-top: 165px; }
+.services-tophead h1 { font-size: 20px; }
+.service-textbox h1 { line-height: 25px; font-weight: 500; font-size: 16px; }
+.platorm-box { padding: 30px; }
+.platorm-box h1 { font-size: 15px; line-height: 28px; }
+.platform-sec { min-height: 300px; }
+.our-mission h1 { font-size: 18px; }
+.our-mission p { font-size: 14px; padding-top: 10px; }
+.black-scan { height: 100px; }
+.service-boxnew { height: 197px; }
+.service-btn { padding: 6px 20px !important; }
+
+// new-home
+.footbtn h5 span { font-size: 12px; }
+.footbtn h5 { font-size: 10px; }
+.footbtn { padding: 4px 10px !important; }
+.new-qrbox { height: 100px; width: 100px; }
+
+.subscription-planleft { padding: 20px 15px; }
+.standard-plancontent { padding: 17px 15px; }
+.standard-plan h2 { font-size: 18px; padding: 10px 10px; }
+.choose-btn { font-size: 13px;  padding: 7px 60px; }
+.choose-advanced { font-size: 13px;  padding: 7px 60px; }
+
+
+// Blogs ================================= 
+
+.Industriesblog-leftimg { height: 188px; }
+.industries-text h1 { font-size: 18px; }
+.industries-text p { font-size: 13px; padding-top: 7px; }
+.industries-text h6 { font-size: 13px; }
+.Industriesblog-rightimg { height: 167px; }
+.industries-text h2 { font-size: 17px; padding-top: 9px; }
+.share-btn { font-size: 10px; padding: 2px 16px; }
+.red-border { padding: 12px; }
+	
+
+// wishlist ==============================
+// .wishlist-imgbox { height: 100%; }
+.out-stock { top: 90px; left: 57px; }
+
+// Deals ====================
+.price-ratingboximg { height: 70px; }
+.price-ratingbox h1 { font-size: 14px; }
+.price-ratingbox p { font-size: 12px; padding-top: 4px; line-height: 15px; }
+.price-ratingbox h5 { margin-top: 0px; justify-content: end; }
+.buy-formtext h1 { font-size: 23px; }
+
+.buy-logo { height: 50px; }
+.head-textblack h1 { font-size: 27px;  }
+.experiance-left h5 { justify-content: flex-start;  padding-top: 5px; }
+.experiance-left h6 { font-size: 14px; padding-top: 10px; }
+.experiance-left p { font-size: 12px; }
+
+//==============exp
+.experiance-box { height: 125px; }
+.experiance-slide .slick-prev:before { left: 6px !important; }
+.new-experiance-slide .slick-next {
+    right: 20px !important;
+}
+
+// .new-experiance-slide .slick-next:before { right: 47px !important; }
+
+.form-boxcontent h1 { font-size: 15px; }
+
+.experiance-img { height: 75px; }
+
+// buy=====
+.secound-buybox {  height: 67px; }
+
+
+}
+
+@media (min-width: 320px) and (max-width: 440px) {
+	 
+}
+
+ 
